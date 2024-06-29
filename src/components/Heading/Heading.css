@@ -1,0 +1,15 @@
+.heading {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 2rem;
+    color: #003DA5;
+    margin: 2rem 0 .5rem 0;
+}
+
+.heading p {
+    margin: 0 0 2rem 0;
+}

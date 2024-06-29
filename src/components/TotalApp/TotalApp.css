@@ -1,0 +1,26 @@
+.total-app-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.total-app-inline {
+    display: inline-block;
+    text-align: left;
+}
+
+.total-app-inline h4 {
+    margin: 2rem 0 1rem 0;
+}
+
+.total-app-inline h2 {
+    font-size: 2rem;
+}
+
+.total-output {
+    background-color: #003DA5;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 1rem 0 2rem 0;
+    color: #fff;
+}

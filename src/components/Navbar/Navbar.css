@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar h3 {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.navbar h4 {
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.navbar h3, .navbar h4 {
+    color: #003DA5;
+    margin: 1rem;
+}
